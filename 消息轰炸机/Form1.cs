@@ -83,7 +83,7 @@ namespace 消息轰炸机 {
                         try { t.Suspend(); } catch { }
                     }
                     break;
-            }
+            }   
             base.WndProc(ref m);
         }
     }
