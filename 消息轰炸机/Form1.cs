@@ -92,8 +92,5 @@ namespace 消息轰炸机 {
             }
             base.WndProc(ref m);
         }
-
-
-
     }
 }
